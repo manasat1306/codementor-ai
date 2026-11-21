@@ -1,0 +1,9 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+/ai_client.py
+/test_client.py
+/test_gemini.py
+/test_gemma.py
