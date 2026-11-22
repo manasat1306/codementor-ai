@@ -80,7 +80,7 @@ pages/practice_generator.py # Practice Generator page
 
 ## My contribution and AI help
 
-I am Manasa T, a BCA graduate. I built this project step by step, with Claude (by Anthropic) as my guide.
+I am Manasa T,  an MCA student . I built this project step by step, with Claude (by Anthropic) as my guide.
 
 - **Claude** helped me plan the project and gave me the code and the AI prompts, one step at a time.
 - **I** set up the project, created the files, ran every step, tested each page with my own buggy code, reported the problems I found, fixed my setup errors (for example my API key file), and set up Git, GitHub and the Streamlit deployment.
